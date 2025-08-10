@@ -1,4 +1,4 @@
-# ✍️ Next Word Prediction using LSTM (Shakespeare's Hamlet)
+# ✍️ Next Word Prediction using LSTM 
 
 This is a **Next Word Prediction** web app built with **TensorFlow (LSTM)** and **Streamlit**.  
 The model is trained on *Shakespeare's Hamlet* text to predict the next word based on the given input sequence.
@@ -30,7 +30,7 @@ The model is trained on *Shakespeare's Hamlet* text to predict the next word bas
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YourUsername/next-word-prediction-lstm.git
+   git clone https://github.com/Aditya-Tyagi-05/next-word-prediction-lstm.git
    cd next-word-prediction-lstm
    ```
 
